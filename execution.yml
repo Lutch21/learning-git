@@ -1,4 +1,4 @@
 execution:
 - iterations: 50
-  concurrency: 108
+  concurrency: 101
 
