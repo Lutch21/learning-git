@@ -1,11 +1,4 @@
 execution:
 - iterations: 50
   concurrency: 10
-  scenario: with_script
 
-scenarios:
-  Choose Flight:
-   requests:
-   - label:blazedemo
-    method: GET
-    url:http://blazedemo.com/
